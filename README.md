@@ -1,1 +1,1 @@
-# Hospitality-Power-BI-Project
+# Hospital_Data_Analysis [Power BI Project]
